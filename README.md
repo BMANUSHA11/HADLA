@@ -250,7 +250,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 👨‍💻 Author
 
-Created with ❤️ by [Your Name]
+Created with ❤️ by B M ANUSHA,ASHA M ,CHETHANA P ,AYUSHI PODDAR
 
 For support or questions, please open an issue on GitHub.
 
