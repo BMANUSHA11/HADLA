@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "434194454500",
+    "project_id": "local-helper-63c39",
+    "storage_bucket": "local-helper-63c39.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:434194454500:android:6c2d1df379318a2fd419f1",
+        "android_client_info": {
+          "package_name": "com.example.local_helper"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYTPwCi1vOyuf2ngXAPxmvLKoNUnJ1KyQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
